@@ -1,54 +1,32 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
-# All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+title: "Effort Estimation, Harder than Expected"
+date: 2026-05-11
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - React
+  - PostgreSQL
+  - Nextjs
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Tracking one's effort in a project is a good way to look back, reflect, and admire how much you've done. For the final project, tracking my effort was a challenge because sometimes I wouldn't always have a clock running, I would get distracted while working, and sometimes I would just stare at the code trying to figure out what to do. This makes the effort estimation quite difficult, as I have to figure out how much time and effort I actually spend code while trimming down on the time and effort I spent being distracted. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## So how did I estimate?
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+I would try to use a clock and a timer to figure out how much time I spent, but with how distracted I often am whenever I work it was an unreliable source. So I combined what I had with my clocks and timers, and then I would guesstimate how much of that time was actually spent on coding and exploring the app. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Estimating past effort for future effort
 
-Here's what I think: the difficult things will always be difficult.
+I do not think estimating in advance helped much, as I didn't really have much use for my estimated time besides recording it for the purpose of credit. If I had to say a benefit, I think that estimating your effort in advance can help with motivation to put more effort in the next issue, or even help with being satisfied how much effort is being put in. 
 
-## In the context of programming
+## So, is this worth it?
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+For me personally, no. Though I can say that I can see the benefits based on what I believe in. As I mentioned above, it can help you be satisfied with how much work you've done, and also help you have motivation to put more effort into future issues. This can relate to anything, not just coding an app. For example, if you estimate your effort when drawing an art piece, you can look back and see how much work you've done. When it comes to accomplishing things, this is very important. Becoming demotivated because it's hard to tell how far you've come is a common issue I'm sure everyone has faced.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+However, I can not say that this method works for me. In the future, when it comes to estimating my effort, I think it would be easier for me to just simply look back at what I've already accomplished. If I were to estimate my effort for all future endeavors, I most likely will simply forget to estimate and/or track my effort. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Ultimately, I say people should give it a go. After giving it a go myself, I can say confidently it's not for me, but as I've said I do see the benefits. So give it a shot, pick a project, goal, anything really, and try tracking your time and effort spent on it. Maybe you'll pick it up, or maybe you'll forget after a couple days, either way it's always good to give new things a good honest try.

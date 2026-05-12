@@ -11,13 +11,15 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img\effort-estimation\me estimating effort.jpg">
+<img width="200px" class="rounded float-start pe-4" src="img/effort-estimation/me estimating effort.jpg">
 
 Tracking one's effort in a project is a good way to look back, reflect, and admire how much you've done. For the final project, tracking my effort was a challenge because sometimes I wouldn't always have a clock running, I would get distracted while working, and sometimes I would just stare at the code trying to figure out what to do. This makes the effort estimation quite difficult, as I have to figure out how much time and effort I actually spend code while trimming down on the time and effort I spent being distracted. 
 
 ## So how did I estimate?
 
-I would try to use a clock and a timer to figure out how much time I spent, but with how distracted I often am whenever I work it was an unreliable source. So I combined what I had with my clocks and timers, and then I would guesstimate how much of that time was actually spent on coding and exploring the app. 
+I would try to use a clock and a timer to figure out how much time I spent, but with how distracted I often am whenever I work it was an unreliable source. So I combined what I had with my clocks and timers, and then I would guesstimate how much of that time was actually spent on coding and exploring the app. Quite frankly, I would say that all of my time estimates are wildly inaccurate. 
+
+I talk a lot about distractions, so what were they? Honestly, messing around on the site. There was an embarassing amount of time of me clicking around on the app, not to find bugs, not even for the excuse I gave myself of "If I were a user what would I want?". Nada, it was just mindless clicking. Now this especially muddied effort estimations as in my head, it's hard to differentiate what time I spent just messing around clicking things vs. time I spent actually testing useful things on the app. 
 
 ## Estimating past effort for future effort
 

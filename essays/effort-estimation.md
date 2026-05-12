@@ -11,7 +11,7 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/effort-estimation/me estimating effort.jpg">
+<img width="200px" class="rounded float-start pe-4" src="img/effort-estimation/me-estimating-effort.jpg">
 
 Tracking one's effort in a project is a good way to look back, reflect, and admire how much you've done. For the final project, tracking my effort was a challenge because sometimes I wouldn't always have a clock running, I would get distracted while working, and sometimes I would just stare at the code trying to figure out what to do. This makes the effort estimation quite difficult, as I have to figure out how much time and effort I actually spend code while trimming down on the time and effort I spent being distracted. 
 

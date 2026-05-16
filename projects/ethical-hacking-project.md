@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ethical-hacking-project/white-hat-hacker-icon.png
+image: ../img/ethical-hacking-project/hacker-icon.png
 title: "Ethical Hacking Class"
 date: 2022-2023
 published: true

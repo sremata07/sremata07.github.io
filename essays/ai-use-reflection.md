@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "Effort Estimation, Harder than Expected"
-date: 2026-05-11
+title: "The Ghost Coder"
+date: 2026-05-15
 published: true
 labels:
   - Software Engineering

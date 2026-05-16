@@ -63,6 +63,8 @@ I found this to be quite difficult, as I spent a lot of time looking into custom
 From this project I learned a lot of time management, and I learned a lot about how difficult it can be to work on a coding project with other people. Making your implementations work without breaking other people's code is a little stressful, and I remember being very confused when looking through merge conflicts trying to figure out what needed to stay and what didn't. Overall, if I had one take away, it's that now I understand the need for comments on code. Because not only do I forget sometimes what I was trying to accomplish, but it's even harder to figure out what something does when I never wrote it. In the future, I will make sure to leave detailed comments as if someone is going to go through my code.
 
 ## Check out the app:
-<a href="https://uh-its-email-helper.vercel.app/">Deployed app on Vercel<a> </br>
-<a href="https://github.com/ICS314-Group-4/Group-4-Final-Project">Source code<a> </br>
+<p> 
+<a href="https://uh-its-email-helper.vercel.app/">Deployed app on Vercel<a> <br>
+<a href="https://github.com/ICS314-Group-4/Group-4-Final-Project">Source code<a> <br>
 <a href="https://ics314-group-4.github.io/">Group project page<a>
+<p>

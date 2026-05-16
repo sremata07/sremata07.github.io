@@ -1,13 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The Ghost Coder"
+title: "AI: The Ghost Coder"
 date: 2026-05-15
 published: true
 labels:
   - Software Engineering
   - AI
 ---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/ai-use/ai-icon.png" >
 
 ## AI is a dangerous, but useful tool
 

@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering/software-engineering-ico.png" >
+
 ## Software Engineering, yay or nay?
 
 Software engineering was I would say my favorite class for this semester. While I struggled to do every experience on time due to the sheer multitude, I could truthfully say I enjoyed working on what I did this semester. This class taught me a lot about how I myself manage time, what I could expect in the future if I were to follow this sort of pathway in life, and the intricacies that web development beyond making the page look nice. I do have to admit, I do not think I did well in class because of my poor work habits among other things this semester, but I would not mind retaking the class or even doing this kind of thing in the future. Even when work was late, and I absolutely had no chance of getting credit, I would still find myself trying out the assignment just because I wanted to know how to do it. Either way, I would say that this class has had an overall positive impact on me.

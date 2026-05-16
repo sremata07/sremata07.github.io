@@ -14,7 +14,7 @@ labels:
 summary: "A web app designed to help UH ITS Students create, share, and save email templates."
 ---
 
-<img src="../img/final-project/final-project-landing-page.png">
+<img class="img-fluid" src="../img/final-project/final-project-landing-page.png">
 
 ## Project overview
 This aim of this project was to help UH ITS student workers save time by creating a web app designed to share, create, and save email templates. This way, they will be able to save time and also share their templates with other ITS student workers in order to create a large, collaborative database that will tackle their every need when it comes to sending emails. There are also other small functionalities that were created to make the overall app more complete such as tags for emails, user profiles, template comments, and a templates use count. 

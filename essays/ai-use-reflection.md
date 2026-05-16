@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 
-## AI is a Dangerous, but Useful Tool
+## AI is a dangerous, but useful tool
 
 AI is everywhere now, and it has overtaken campuses all around the world. Generative AI can generate something for anyone with a simple prompt and an objective. So when it comes to software engineering, giving an AI a prompt such as "create a web app that does blah blah blah" will result in the AI spitting out a bunch of code that may or may not do what you asked of it. This kind of reliance on AI to complete everything for you is dangerous, as I'm sure many people know at this point that this can negatively affect your critical thinking and your learning. So, have I used AI? Yes, I have. 
 

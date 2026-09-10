@@ -183,6 +183,7 @@ A:
 > 
 > Working example
 > With flexbox you can easily switch between any of your rows or columns either having fixed dimensions, content-sized dimensions or remaining-space dimensions. In my example I have set the header to snap to its content (as per the OPs question), I've added a footer to show how to add a fixed-height region and then set the content area to fill up the remaining space.
+
 ```
 /*
 Source - https://stackoverflow.com/a/24979148

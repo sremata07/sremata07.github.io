@@ -29,3 +29,5 @@ Above is the timeline of my potato, from left being the day I potted it to the r
   <img width="20%" src="../img/Summer Gardening/jalepeno_1.JPG" class="img-thumbnail">
   <img width="20%" src="../img/Summer Gardening/habanero_1.JPG" class="img-thumbnail" >
 </div>
+
+I hope that this inspires you to try your hand at gardening too. I find it very satisfying to watch a plant slowly grow over time, and eventually I am excited for when I am able to harvest the potatoes and peppers. This taught me a lot about patience frankly, and definitely a lot about how certain plants grow as well as how to maximize your harvests. 

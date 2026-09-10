@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: ../img/Summer Gardening/sweet_potato_header.jpeg
 title: "Summer Gardening"
 date: 2026
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A timelime of 3 different plants I grew over Summer of 2026."
 ---
 
-<img class="img-fluid" src="../img/Summer Gardening/sweet_potato_header.jpeg">
+<h> Overview <h>
 
 During Summer of 2026, I decided to test my luck gardening. I wanted to work on having a healthy daily routine, and I decided to grow some plants in orde to help me with that goal. I grew 3 different plants, and I have pictures that capture their growth over the summer as well as what I did to care for them. I would like to talk about what I did in order to grow my plants and the kind of care they take in order to grow. 
 

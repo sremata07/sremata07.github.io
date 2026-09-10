@@ -7,7 +7,7 @@ date: 2026-09-09
 published: true
 labels:
   - Questions
-  - Answers
+  - Analysis
   - StackOverflow
 ---
 
@@ -161,6 +161,7 @@ This question from the user Vincent McNabb is a good example of what I believe i
 Now, while spin58's question may be "not-smart" and Vincent McNabb's question is "smart", but that doesn't matter if they get the answers they're looking for right?
 
 Now, looking at the answers for spin58's questions:
+
 A:
 > "You have invalid HTML. You never close your `<p>` tags, and you start a col-sm div inside the first one before closing it, too. Also, `<p>` cannot go inside an `<img>` I'm pretty sure (you never close the img tags, they should self-close) Your last `</div>`s need several other closing tags for different tag types in it before it can be valid. I've reformatted your code to use proper indentation to make it more clear where your issues lie. I recommend using a proper IDE or development environment when writing code; whatever tool you are currently writing the code in is clearly not doing you any favors."
 

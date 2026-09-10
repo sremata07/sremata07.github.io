@@ -158,13 +158,8 @@ This question from the user Vincent McNabb is a good example of what I believe i
 Now, while spin58's question may be "not-smart" and Vincent McNabb's question is "smart", but that doesn't matter if they get the answers they're looking for right?
 
 Now, looking at the answers for spin58's questions:
-`
-You have invalid HTML. You never close your <p> tags, and you start a col-sm div inside the first one before closing it, too. Also, <p> cannot go inside an <img> I'm pretty sure (you never close the img tags, they should self-close) Your last </div>s need several other closing tags for different tag types in it before it can be valid. I've reformatted your code to use proper indentation to make it more clear where your issues lie. I recommend using a proper IDE or development environment when writing code; whatever tool you are currently writing the code in is clearly not doing you any favors.
-`
-`
-
-"using the w-3 card option" What is that supposed to be? w-3 would be a 3% width Bootstrap class, but that' is not a default class. And in your HTML, you have w3-card, which is not a Bootstrap class either.
-`
+`You have invalid HTML. You never close your <p> tags, and you start a col-sm div inside the first one before closing it, too. Also, <p> cannot go inside an <img> I'm pretty sure (you never close the img tags, they should self-close) Your last </div>s need several other closing tags for different tag types in it before it can be valid. I've reformatted your code to use proper indentation to make it more clear where your issues lie. I recommend using a proper IDE or development environment when writing code; whatever tool you are currently writing the code in is clearly not doing you any favors.`
+`"using the w-3 card option" What is that supposed to be? w-3 would be a 3% width Bootstrap class, but that' is not a default class. And in your HTML, you have w3-card, which is not a Bootstrap class either.`
 
 Then, the answers for Vincent McNabb's answers:
 ```

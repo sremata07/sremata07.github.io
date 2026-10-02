@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Quality Assurance
 ---
+<img class="rounded float-start pe-4" src="../img/Coding Standards Reflection/quality-assurance.jpg">
 
 ## Curse you past me.
 Running ESLint on your code wil be demotivating at first. Why should I do all of this, label this and that, put line breaks there, when I understand precisely what I am doing? This project is for my eyes only anyways, so this doesn't matter. This is what I thought initially, but as it turns out, the person you are the day you wrote the code is a completely different person from the person you are when you have to revisit it. Sometimes for me, it's not even the next day, but the next hour where I start to literally lose myself. Lo and behold though, once you get through those errors, I feel as though you understand your own code better, and it will also help your future self understand what you were doing.

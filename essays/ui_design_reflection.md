@@ -21,8 +21,8 @@ Some of the class names are understandable in Bootstrap 5, such as `.py-*`  stan
 
 ## A quick comparison
 I recreated a shopping website trying to use as many Bootstrap 5 classes as I could. On the left is the real website and on the right is my imitation:<br>
-<img class="pe-4 d-block" width="400px" src="../img/UI Design Reflection/ado_shop_real.png">
-<img class="pe-4 d-block" width="400px" src="../img/UI Design Reflection/ado_shop_copy.png"><br>
+<img class="pe-4 rounded d-inline-block" width="400px" src="../img/UI Design Reflection/ado_shop_real.png">
+<img class="pe-4 rounded d-inline-block" width="400px" src="../img/UI Design Reflection/ado_shop_copy.png"><br>
 You can see that Bootstrap 5 does have its limitations, thought it certainly came close to whatever custom HTML the real website uses. I was unable to copy the legal links styling completely, Bootstrap did not have icons for the accepted payment methods seen on the real site, and I was also unable to imitate country/region and language options. However, I would say that this is more indicative of my mastery over Bootstrap 5 rather than its limitations. The footer with the social media icons looks very similar and the styling for the newsletter ad is also very similar. Though you can not see it in the comparison, I actually did not use any Bootstrap 5 containers for these elements and instead used a custom class to mimic the padding of the real site, which means that if you were to change the size of the window viewing the webpage, it would mess up all of the styling. That's why I think it's incredibly important to utilize the classes given by Bootstrap 5, as mentioned before, those auto-adjusting margins are very important for a webpages readability.
 
 ## To conclude
